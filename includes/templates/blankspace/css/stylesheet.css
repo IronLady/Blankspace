@@ -1,0 +1,12 @@
+/**
+ *
+ * Main Stylesheet
+ *
+ * Use @import to include other stylesheet
+ * If you need to include stylesheet from
+ * CDN or other site, consider to use protocol
+ * relative url
+ *
+ */
+
+@import url('vendor/normalize.css');
