@@ -9,5 +9,6 @@ Blankspace is a blank zen cart template. Blankspace meant to be hacked and modif
   - jQuery via Google CDN
   - Normalize.css
   - Template Functions file
+  - Banner code removed since every template has its own banner location
 
 It's still under development.
